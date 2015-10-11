@@ -1,0 +1,24 @@
+{
+  "repository": {},
+  "scripts": {
+    "start": "babel-node server.js"
+  },
+  "dependencies": {
+    "express": "4.13.x",
+    "history": "1.11.x",
+    "react": "0.14.x",
+    "react-dom": "0.14.x",
+    "react-router": "1.0.0-rc3",
+    "superagent": "1.4.x"
+  },
+  "devDependencies": {
+    "babelify": "6.3.x",
+    "browserify": "11.2.x",
+    "gulp": "3.9.x",
+    "gulp-concat": "2.6.x",
+    "gulp-pleeease": "1.2.x",
+    "gulp-plumber": "1.0.x",
+    "gulp-ruby-sass": "2.0.x",
+    "vinyl-source-stream": "1.1.x"
+  }
+}
